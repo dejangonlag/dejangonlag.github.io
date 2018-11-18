@@ -4,7 +4,7 @@
     "publisherName": "HAN ICA",
     "feedIdentifier": "io.github.dejangonlag",
     "contactURL": "https://www.han.nl",
-    "formatVersion": "1.0",
+    "formatVersion": "1.2",
     "documents": [
         {
             "title": "Test Playground",
@@ -14,14 +14,19 @@
             "contentVersion": "1.0",
             "url": "playgroundbook/playgroundbook.playgroundbook.zip",
             "publishedDate": "2018-11-18T21:30:00+00:00",
-            "lastUpdatedDate": "2017-11-18T21:30:00+00:00",
+            "lastUpdatedDate": "2018-11-18T21:30:00+00:00",
             "thumbnailURL": "playgroundbook/thumbnail.png",
             "bannerImageURL": "playgroundbook/bannerImage.png",
             "additionalInformation": [
                 {
                     "name": "Languages",
-                    "value": "Dutch"
+                    "value": "Nederlands, Engels"
                 }
+            ],
+            "previewImageURLs": [
+                "playgroundbook/preview-1.png",
+                "playgroundbook/preview-2.png",
+                "playgroundbook/preview-3.png"
             ]
         }
     ]

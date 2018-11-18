@@ -1,0 +1,16 @@
+.wrapper {
+    text-align: center;
+}
+
+a.button {
+    text-decoration: none;
+    font-size: 500%;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    color: white;
+    background-color: #f44336;
+    border-radius: 8px;
+    padding: 10px;
+
+    position: absolute;
+    top: 50%;
+}
