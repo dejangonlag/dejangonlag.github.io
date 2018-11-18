@@ -1,0 +1,28 @@
+{
+    "title": "Leer programmeren met LEGO",
+    "subtitle": "Een verzameling lessen die gebruik maken van LEGO Bluetooth apparaten.",
+    "publisherName": "HAN ICA",
+    "feedIdentifier": "io.github.dejangonlag",
+    "contactURL": "https://www.han.nl",
+    "formatVersion": "1.0",
+    "documents": [
+        {
+            "title": "Test Playground",
+            "overviewSubtitle": "Dit is een test playground.",
+            "description": "Wij testen dit voor het multidisciplinaire project tussen november 2018 en january 2019.",
+            "contentIdentifier": "io.github.dejangonlag.playgroundbook",
+            "contentVersion": "1.0",
+            "url": "playgroundbook/playgroundbook.playgroundbook.zip",
+            "publishedDate": "2018-11-18T21:30:00+00:00",
+            "lastUpdatedDate": "2017-11-18T21:30:00+00:00",
+            "thumbnailURL": "playgroundbook/thumbnail.png",
+            "bannerImageURL": "playgroundbook/bannerImage.png",
+            "additionalInformation": [
+                {
+                    "name": "Languages",
+                    "value": "Dutch"
+                }
+            ]
+        }
+    ]
+}

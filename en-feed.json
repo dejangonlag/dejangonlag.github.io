@@ -1,0 +1,28 @@
+{
+    "title": "Learn to code with LEGO",
+    "subtitle": "A collection of lessons using LEGO Bluetooth controllable devices",
+    "publisherName": "HAN ICA",
+    "feedIdentifier": "io.github.dejangonlag",
+    "contactURL": "https://www.han.nl",
+    "formatVersion": "1.0",
+    "documents": [
+        {
+            "title": "Test Playground",
+            "overviewSubtitle": "This is a test playground testing localization and the subscription.",
+            "description": "We're testing this for the sake of the multidisciplinary project during november 2018 to january 2019.",
+            "contentIdentifier": "io.github.dejangonlag.playgroundbook",
+            "contentVersion": "1.0",
+            "url": "playgroundbook/playgroundbook.playgroundbook.zip",
+            "publishedDate": "2018-11-18T21:30:00+00:00",
+            "lastUpdatedDate": "2017-11-18T21:30:00+00:00",
+            "thumbnailURL": "playgroundbook/thumbnail.png",
+            "bannerImageURL": "playgroundbook/bannerImage.png",
+            "additionalInformation": [
+                {
+                    "name": "Languages",
+                    "value": "English"
+                }
+            ]
+        }
+    ]
+}
